@@ -56,7 +56,7 @@ let showCreatePost = ref(false);
             <Link href="/" class="px-4">
                 <ChevronLeft :size="30" class="cursor-pointer"/>
             </Link>
-            <div class="font-extrabold text-lg">NAME HERE</div>
+            <div class="font-extrabold text-lg">Name Here</div>
             <AccountPlusOutline :size="30" class="cursor-pointer px-4"/>
         </div>
 

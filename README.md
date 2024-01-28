@@ -4,7 +4,6 @@
 
 🎉 xxxxxxxx
 
-
 ## :hammer_and_wrench: Technologies Used
 
 - ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) Vue.js

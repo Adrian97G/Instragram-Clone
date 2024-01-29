@@ -26,7 +26,7 @@ Route::get('/user', function () {
     return Inertia::render('User');
 });
 
-Route::get('/Login.vue', function () {
+Route::get('/login', function () {
     return Inertia::render('Login');
 });
 
